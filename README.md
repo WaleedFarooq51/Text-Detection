@@ -16,4 +16,4 @@ This repository implements an **arbitrary shape text detection** using **Detectr
 
 Example results of our trained model on our test dataset.
 
-![Sample Detection](./results/img1.png) ![Sample Detection](./results/img2.png) ![Sample Detection](./results/img3.png)
+![Sample Detection](./results/BEAR.jpg) ![Sample Detection](./results/BUS.jpg) ![Sample Detection](./results/FUZZ.jpg)

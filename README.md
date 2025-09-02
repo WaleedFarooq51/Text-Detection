@@ -17,3 +17,19 @@ This repository implements an **arbitrary shape text detection** using **Detectr
 Example results of our trained model on our test dataset.
 
 ![Sample Detection](./results/BEAR.jpg) ![Sample Detection](./results/BUS.jpg) ![Sample Detection](./results/FUZZ.jpg)
+
+## Installation
+
+```bash
+1. Clone the repo:
+   git clone <repo-url>
+   cd <repo-name>
+
+2. Install required libraries:
+   pip install requirements.txt
+
+3. Open text_detection.ipynb notebook and follow the installation instructions for the required libraries in it.
+```
+
+## Inference
+

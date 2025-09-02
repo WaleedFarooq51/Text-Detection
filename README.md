@@ -43,7 +43,7 @@ Example results of the trained model on test dataset.
 
 ## - Train a new model
 
-### -Dataset
+### - Dataset
 
 - All the data along with their annotated .json files should be stored in separate `train` and `test` folders located in `Maskdataset` folder.
   

@@ -55,11 +55,11 @@ Example results of the trained model on test dataset.
 
 ### - Pre-trained model weights
 
-- Since the transfer learning technique is used in this project, I have used the pre-trained model weights trained in TextFuseNet [github repo](https://github.com/ying09/TextFuseNet.git).
+- Since the transfer learning technique is used in this project, I have used the pre-trained model weights trained in TextFuseNet ([github repo])(https://github.com/ying09/TextFuseNet.git).
 
 - Download the pre-trained TextFuseNet model weights from [here]() and set the path in `train_config.yml` file.
 
-### -Training
+### - Training
 
 - After completing the above requirements, train your model by executing the following command:
 
@@ -67,4 +67,4 @@ Example results of the trained model on test dataset.
 
 - Your trained model weights will be stored in `./out_dir/trained_model/`.
 
-- All the training and inference commands are also present in the `text_detection.ipynb` notebook.
+#### All the training and inference commands are also present in the `text_detection.ipynb` notebook.

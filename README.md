@@ -33,7 +33,7 @@ Example results of the trained model on test dataset.
 
 ## - Inference
 
-- If you want to carry out inference using my trained model available [here](), execute `detection_inference.py` in the `inference` folder using following command:
+- If you want to carry out inference using my trained model available [here](https://drive.google.com/drive/folders/19IeyRXkNXc_SWeOVJLx-Jy1IskSIfcsH?usp=sharing), execute     `detection_inference.py` in the `inference` folder using following command:
 
   `python inference/detection_inference.py \--config-file configs/ocr/config.yaml\--testdata test_images\--weights out_dir/trained_model/model_final.pth`
 

@@ -57,7 +57,7 @@ Example results of the trained model on test dataset.
 
 - Since the transfer learning technique is used in this project, I have used the pre-trained model weights trained in TextFuseNet [github repo](https://github.com/ying09/TextFuseNet.git).
 
-- Download the pre-trained TextFuseNet model weights from [here]() and set the path in `train_config.yml` file.
+- Download the pre-trained TextFuseNet model weights from [here](https://drive.google.com/drive/folders/1CoCouevzYkbyTE0NZvFXgDFhqNMLEVfc?usp=sharing) and set the path in      `train_config.yml` file.
 
 ### - Training
 

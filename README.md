@@ -10,7 +10,7 @@ This repository implements an **arbitrary shape text detection** using **Detectr
 
 - The data is annotated using `LabelMe` tool. Annotations are of bounding boxes with polygonal shapes, and labels are stored in `.json` format.
 
-- The dataset can be downloaded using the [link]().
+- The dataset can be downloaded using the [link](https://drive.google.com/drive/folders/1TkSIKaYPGXj0HShb8K-Hzxc1-uCS8Bw5?usp=sharing).
 
 ## 📊 Results
 
